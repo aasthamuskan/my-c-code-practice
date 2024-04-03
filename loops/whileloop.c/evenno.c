@@ -6,7 +6,7 @@ int main(){
     i=1;
     while(i<=a){
         if(i%2==0){;
-        printf("%d",i);
+        printf("\n%d",i);
     }
     i++;
 }return 0;
