@@ -11,6 +11,6 @@ int main(){
         }else{
             o++;
         }
-    }printf("\nTotal even=%d and total odd =%d",e,o);
+    }printf("\nTotal even=%d an d total odd =%d",e,o);
     return 0;
 }

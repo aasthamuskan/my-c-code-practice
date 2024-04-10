@@ -5,7 +5,7 @@ int main(){
         printf("\nEnter Number: ");
         scanf("%d",&a[i]);
         }
-    printf("Enter the number you want frequency:");
+    printf(" Enter the number you want frequency:");
     scanf("%d",&key);
     for(i=0;i<=9;i++)
       if(a[i]==key)
