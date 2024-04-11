@@ -9,7 +9,7 @@ int main(){
     for(i=0;i<10;i++)
     if(a[i]>max)
         max =a[i];
-        printf("\nmax number is %d .",max);
+        printf("\n max number is %d .",max);
     
     return 0;
 }
