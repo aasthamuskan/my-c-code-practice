@@ -8,8 +8,8 @@ int main(){
     }
     printf("enter the no to serch%d",j);
     scanf("%d",&j);
-    for (i=0;i<10;i++){
-        if(a[i]==j){
+    for  (i=0;i<10;i++){
+        if (a[i]==j){
             k=j+1;
             flat=1;
             break;
