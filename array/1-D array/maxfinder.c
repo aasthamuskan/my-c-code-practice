@@ -6,10 +6,10 @@ int main(){
         scanf(" %d",&a[i]);
     }
     max = a[0];
-    for(i=0;i<10;i++)
+    for(i=0; i<10;i++)
     if(a[i]>max)
         max =a[i];
-        printf("\n max  number is %d .",max);
+        printf("\n  max  number is %d .",max);
     
     return 0;
 }
